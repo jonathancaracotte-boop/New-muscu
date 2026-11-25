@@ -1,0 +1,1 @@
+Photographic exercise reference poses from https://github.com/yuhonas/free-exercise-db (dataset described as public domain, Unlicense). Common display frame in Cockpit Muscu; rowing right mirrored from left-arm exercise reference.
